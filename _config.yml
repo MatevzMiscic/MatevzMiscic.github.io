@@ -1,5 +1,6 @@
 title: Matevž Miščič
-description: Academic Website of Matevž Miščič
+description: PhD Student in Mathematics at the University of Ljubljana. Researching diameters of Groups, Lie algebras as well as Babai's Conjecture.
 remote_theme: pages-themes/primer
 plugins:
   - jekyll-github-metadata
+  - jekyll-seo-tag
