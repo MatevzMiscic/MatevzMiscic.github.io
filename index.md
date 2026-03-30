@@ -39,6 +39,7 @@ I am a PhD student at University of Ljubljana. My current research interests lie
 
 * **Random Lie bracket on $\mathfrak{sl}_2(\mathbb{F}_p)$** (with Urban Jezernik).  
   *Random Structures & Algorithms* (2025). [[Journal]](https://onlinelibrary.wiley.com/doi/10.1002/rsa.70042) [[arXiv]](https://arxiv.org/abs/2503.16175)
+
 ---
 
 ### Talks & Activities
@@ -47,7 +48,7 @@ I am a PhD student at University of Ljubljana. My current research interests lie
 * **Talk**: *Introductory meeting for the [reading group on Approximate Groups](https://sites.google.com/view/ljubljana-math-reading-group/home/202425-approximate-groups)* [[Video](https://uni-lj-si.zoom.us/rec/share/aImqWy1OboWo5yaMcLq48XD-Ikk-0OxifCB_XSF3SdRjYaqURDkEOWGze38zpG0.oKiWEavKNfD4s5n9)]
 * **Talk**: *Solvable approximate subgroups of linear groups* [[Video](https://uni-lj-si.zoom.us/rec/share/U99xmDgJgRxxLeOpBKtcBag8O7Yw4XmAmmvjuGyhHyunnrYecmJw83lIF6mJp4vA.1eMiJeKsMqaFogNm)]
 * **Talk**: *Arbitrary approximate subgroups of linear groups* [[Video](https://uni-lj-si.zoom.us/rec/share/s89ASEhFq-jrC5ZDsfYztrl7NdKUJpQ7V5uPv85hHwthaPArnBfYh8NcrTnkoWpB.hAYJIrgzqYVdjslb)]
-* **Talk**: *$Random Lie bracket on $\mathfrak{sl}_2(\mathbb{F}_p)$* - Conference on Theoretical and Computational Algebra 2025
+* **Talk**: *Random Lie bracket on $\mathfrak{sl}_2(\mathbb{F}_p)$* - Conference on Theoretical and Computational Algebra 2025
 * **Talk**: *Diameters of Lie algebras* - Conference of slovenian mathematicians 2025
 * **Seminar**: *Diameter bounds for simple Lie algebras* - SAFA Seminar
 * **Lectures**: [Finite classical groups](https://matevzmiscic.github.io/ClassicalGroups/)
