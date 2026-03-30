@@ -1,4 +1,5 @@
 title: Matevž Miščič
-theme: minima
-remote_theme: pages-themes/primer
 description: Academic Website of Matevž Miščič
+remote_theme: pages-themes/primer
+plugins:
+  - jekyll-github-metadata
