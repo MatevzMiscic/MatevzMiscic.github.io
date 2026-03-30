@@ -18,7 +18,7 @@ title: Matevž Miščič
 
 **PhD Student in Mathematics** [University of Ljubljana, Faculty of Mathematics and Physics](https://www.fmf.uni-lj.si/en/)  
 
-**Young Researcher** [Institute of Mathematics, Physics and Mechanics](https://www.imfm.si/en/) 
+**Young Researcher** [Institute of Mathematics, Physics and Mechanics](http://www.imfm.si/) 
 
 ---
 
